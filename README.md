@@ -95,22 +95,22 @@ Here we used JSP for displaying data(Front end) Servlet for controlling data and
 
 ## Some files for the Application
 
-For Java File [Click here]( https://github.com/vishalvs9728/MyBlog_Web/tree/main/src/com/major/project)
+For Java File [Click here]( https://github.com/vishalvs9728/MyBlog_WebApp/tree/main/src/com/major/project)
 
-* [For DAO file](https://github.com/vishalvs9728/MyBlog_Web/tree/main/src/com/major/project/daodb)
+* [For DAO file](https://github.com/vishalvs9728/MyBlog_WebApp/tree/main/src/com/major/project/daodb)
 
-* [For Servlet files](https://github.com/vishalvs9728/MyBlog_Web/tree/main/src/com/major/project/servlet)
+* [For Servlet files](https://github.com/vishalvs9728/MyBlog_WebApp/tree/main/src/com/major/project/servlet)
 
-* [For Helper/Connection Class](https://github.com/vishalvs9728/MyBlog_Web/tree/main/src/com/major/project/helper)
+* [For Helper/Connection Class](https://github.com/vishalvs9728/MyBlog_WebApp/tree/main/src/com/major/project/helper)
 
-* [For Entities](https://github.com/vishalvs9728/MyBlog_Web/tree/main/src/com/major/project/entities)
+* [For Entities](https://github.com/vishalvs9728/MyBlog_WebApp/tree/main/src/com/major/project/entities)
 
-* [WebContent or JSP files](https://github.com/vishalvs9728/MyBlog_Web/tree/main/WebContent)
+* [WebContent or JSP files](https://github.com/vishalvs9728/MyBlog_WebApp/tree/main/WebContent)
 
 CSS files are stored in `css` package
 
-* [CSS](https://github.com/vishalvs9728/MyBlog_Web/tree/main/WebContent/css)
+* [CSS](https://github.com/vishalvs9728/MyBlog_WebApp/tree/main/WebContent/css)
 
 Web.xml file 
 
-* [web.xml](https://github.com/vishalvs9728/MyBlog_Web/blob/main/WebContent/WEB-INF/web.xml)
+* [web.xml](https://github.com/vishalvs9728/MyBlog_WebApp/blob/main/WebContent/WEB-INF/web.xml)
